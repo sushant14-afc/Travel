@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    width:100%;
+    height: 84px;
+    background-color: #022133;
+    display: flex;
+}
+
+.logo{
+    width: 50%;
+    height: 72px;
+    float: left;
+}
+
+.resize{
+    height: 84px;
+    padding-left: 204px;
+}
+
+.name{
+    color:white;
+    box-sizing: border-box;
+    padding-top: 19px;
+    font-size: 24px;
+    padding-left: 240px;
+}
+
+.nav{
+    width: 50%;
+    height: 72px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+.first{
+    height: 84px;
+    width: 109px;
+    padding-left: 22px;
+    box-sizing: border-box;
+    padding-top: 30px;;
+    font-size: 15px;
+    color:white;
+    
+}
+.firsts{
+    height: 84px;
+    width: 109px;
+    padding-left: 22px;
+    box-sizing: border-box;
+    padding-top:30px;
+    font-size: 15px;
+    color:white;
+}
+
+.second{
+    height: 84px;
+    width: 109px;
+    padding-left: 33px;
+    box-sizing: border-box;
+    padding-top: 30px;
+    font-size: 15px;
+    color:white;
+}
+
+.third{
+    height: 84px;
+    width: 126px;
+    padding-left: 22px;
+    box-sizing: border-box;
+    padding-top: 30px;
+    font-size: 15px;
+    color:white;
+}
+
+.size{
+    height: 753px;
+    width:1859px;
+
+}
+
+.text{
+    color: red;
+    text-align: center;
+    height: 200px;
+    width: 100%;
+
+}
